@@ -1,0 +1,10 @@
+#btn    {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 6rem;
+    padding-right: 6rem;
+}
+
+#topbtn {
+    background-color: rgb(240, 211, 114) ;
+}

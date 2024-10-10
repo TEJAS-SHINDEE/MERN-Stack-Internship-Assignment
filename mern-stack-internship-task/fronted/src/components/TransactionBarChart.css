@@ -1,0 +1,15 @@
+/* TransactionBarChart.css */
+
+#chart-container {
+    width: 80%; 
+    height: 30rem; 
+    margin: 0 auto; 
+  }
+  
+  @media (max-width: 768px) {
+    #chart-container {
+      width: 90%; 
+      height: 18rem; 
+    }
+  }
+  
