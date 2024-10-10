@@ -20,27 +20,27 @@ APIs Implemented
 #### 1. Initialize Database
 URL: /api/transactions/seed \
 Method: GET \
-Description: Fetches the JSON data from the third-party API and seeds the MongoDB database with transactions. \
+Description: Fetches the JSON data from the third-party API and seeds the MongoDB database with transactions. 
 
-3. Transactions Listing API
-URL: /api/transactions
-Method: GET
-Query Parameters:
-month: (Required) Month of the transactions (e.g., January, February).
-page: (Optional) Page number for pagination (default: 1).
-per_page: (Optional) Number of records per page (default: 10).
-search: (Optional) Search text that matches product title/description/price.
-Description: Returns a paginated list of transactions for the selected month. Supports search on product title, description, and price.
+#### 3. Transactions Listing API
+URL: /api/transactions \
+Method: GET \
+Query Parameters: \
+month: (Required) Month of the transactions (e.g., January, February). \
+page: (Optional) Page number for pagination (default: 1). \
+per_page: (Optional) Number of records per page (default: 10). \
+search: (Optional) Search text that matches product title/description/price. \
+Description: Returns a paginated list of transactions for the selected month. Supports search on product title, description, and price. 
 
-5. Statistics API
-URL: /api/statistics
-Method: GET
-Query Parameters:
-month: (Required) Month of the statistics (e.g., January, February).
-Description: Returns statistics for the selected month including:
-Total sale amount.
-Total number of sold items.
-Total number of unsold items.
+#### 5. Statistics API
+URL: /api/statistics \
+Method: GET \
+Query Parameters: \
+month: (Required) Month of the statistics (e.g., January, February). \
+Description: Returns statistics for the selected month including: \
+Total sale amount. \
+Total number of sold items. \
+Total number of unsold items. \
 
 6. Bar Chart API
 URL: /api/bar-chart
