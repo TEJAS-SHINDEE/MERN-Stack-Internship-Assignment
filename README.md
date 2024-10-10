@@ -98,14 +98,17 @@ Install dependencies by running:
 
 ```bash
 npm install
+```
 
 Create a .env file with the following content:
 ```bash
 MONGODB_URI=<your_mongodb_connection_string>
 PORT=5000
+```
 Run the backend server:
 ```bash
 npm start
+```
 Access the backend APIs on http://localhost:5000.
 Frontend Setup
 Navigate to the frontend folder.
