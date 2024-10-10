@@ -114,25 +114,26 @@ Frontend Setup
 Navigate to the frontend folder.
 Install dependencies by running:
 ```bash
-Copy code
 npm install
+```
 Start the frontend server:
 ```bash
-Copy code
 npm run dev
+```
 Open http://localhost:5173 in your browser to view the frontend.
-Screenshots
+
+### Screenshots
 Please replace the placeholder text with actual screenshots after you take them.
 
-Transactions Table
+#### Transactions Table
 
-Transactions Statistics
+#### Transactions Statistics
 
-Bar Chart
+#### Bar Chart
 
-Pie Chart
+#### Pie Chart
 
-Full Website Demo
+### Full Website Demo
 You can access the full website demo by running both the backend and frontend servers as described above. The application includes a responsive design, allowing users to view transaction data, analyze statistics, and visualize data using charts.
 
 Credits
