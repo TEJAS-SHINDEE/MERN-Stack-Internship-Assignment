@@ -147,7 +147,7 @@ You can access the full website demo by running both the backend and frontend se
 Credits
 This project was built using:
 
-React for the frontend.
-Node.js and Express for the backend.
-MongoDB for data storage.
+React for the frontend.\
+Node.js and Express for the backend.\
+MongoDB for data storage.\
 Chart.js for visualizing data.
