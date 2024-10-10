@@ -42,31 +42,31 @@ Total sale amount. \
 Total number of sold items. \
 Total number of unsold items. \
 
-6. Bar Chart API
-URL: /api/bar-chart
-Method: GET
-Query Parameters:
-month: (Required) Month of the data (e.g., January, February).
-Description: Returns the number of items in different price ranges (e.g., 0-100, 101-200) for the selected month.
+#### 6. Bar Chart API \
+URL: /api/bar-chart \
+Method: GET \
+Query Parameters: \
+month: (Required) Month of the data (e.g., January, February). \
+Description: Returns the number of items in different price ranges (e.g., 0-100, 101-200) for the selected month. \
 
-8. Pie Chart API
-URL: /api/pie-chart
-Method: GET
-Query Parameters:
-month: (Required) Month of the data (e.g., January, February).
-Description: Returns the number of items in each category for the selected month.
+#### 8. Pie Chart API 
+URL: /api/pie-chart \
+Method: GET \
+Query Parameters: \
+month: (Required) Month of the data (e.g., January, February). \
+Description: Returns the number of items in each category for the selected month. \
 
-10. Combined API
-URL: /api/combined-data
-Method: GET
-Query Parameters:
-month: (Required) Month of the data (e.g., January, February).
-Description: Fetches and combines the data from the Transactions, Statistics, Bar Chart, and Pie Chart APIs and returns a single JSON response.
+#### 10. Combined API
+URL: /api/combined-data \
+Method: GET \
+Query Parameters: \
+month: (Required) Month of the data (e.g., January, February).\
+Description: Fetches and combines the data from the Transactions, Statistics, Bar Chart, and Pie Chart APIs and returns a single JSON response.\
 
 ### Frontend Features
 
 #### 1. Transactions Table
-URL: /transactions
+URL: /transactions\
 Description:
 Displays a table of transactions fetched from the Transactions Listing API.
 Supports search, pagination, and filtering by month.
@@ -75,7 +75,7 @@ Includes "Next" and "Previous" buttons for pagination.
 The "Search" box allows filtering transactions by product title, description, or price.
 
 #### 2. Transactions Statistics
-URL: /statistics
+URL: /statistics\
 Description:
 Displays total sale amount, sold items, and unsold items for the selected month.
 Fetches data from the Statistics API based on the selected month.
