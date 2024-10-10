@@ -127,6 +127,8 @@ Open http://localhost:5173 in your browser to view the frontend.
 Please replace the placeholder text with actual screenshots after you take them.
 
 #### Transactions Table
+![Alt text](one.png)
+
 
 #### Transactions Statistics
 
