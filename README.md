@@ -131,13 +131,18 @@ Please replace the placeholder text with actual screenshots after you take them.
 
 
 #### Transactions Statistics
+![Alt text](two.png)
 
 #### Bar Chart
+![Alt text](three.png)
 
-#### Pie Chart
 
 ### Full Website Demo
 You can access the full website demo by running both the backend and frontend servers as described above. The application includes a responsive design, allowing users to view transaction data, analyze statistics, and visualize data using charts.
+![Alt text](one.png)
+![Alt text](two.png)
+![Alt text](three.png)
+
 
 Credits
 This project was built using:
