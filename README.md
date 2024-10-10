@@ -3,7 +3,7 @@
 Overview
 This project implements a full-stack MERN (MongoDB, Express, React, Node.js) application to display and analyze product transactions. The backend fetches data from a third-party API, stores it in a MongoDB database, and provides several APIs for retrieving, searching, and analyzing the data. The frontend uses these APIs to display transaction statistics, a table with search and pagination functionality, and charts for visual representation.
 
-Features
+### Features
 Initialize Database: Fetch data from a third-party API and seed the database.
 Transactions Listing API: List all transactions with support for search, pagination, and filtering by month.
 Statistics API: Get total sales, sold items, and unsold items for a selected month.
