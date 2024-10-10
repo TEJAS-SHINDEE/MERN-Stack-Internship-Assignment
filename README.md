@@ -96,7 +96,8 @@ Backend Setup
 Clone the repository.
 Install dependencies by running:
 
-```npm install
+``` bash
+npm install
 
 Create a .env file with the following content:
 bash
