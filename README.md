@@ -96,27 +96,25 @@ Backend Setup
 Clone the repository.
 Install dependencies by running:
 
-``` bash
+```bash
 npm install
 
 Create a .env file with the following content:
-bash
-Copy code
+```bash
 MONGODB_URI=<your_mongodb_connection_string>
 PORT=5000
 Run the backend server:
-bash
-Copy code
+```bash
 npm start
 Access the backend APIs on http://localhost:5000.
 Frontend Setup
 Navigate to the frontend folder.
 Install dependencies by running:
-bash
+```bash
 Copy code
 npm install
 Start the frontend server:
-bash
+```bash
 Copy code
 npm run dev
 Open http://localhost:5173 in your browser to view the frontend.
