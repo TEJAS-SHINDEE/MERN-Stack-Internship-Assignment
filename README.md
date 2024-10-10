@@ -127,21 +127,21 @@ Open http://localhost:5173 in your browser to view the frontend.
 Please replace the placeholder text with actual screenshots after you take them.
 
 #### Transactions Table
-![Alt text](one.png)
+![Alt text](mern-stack-internship-task/fronted/public/one.png)
 
 
 #### Transactions Statistics
-![Alt text](two.png)
+![Alt text](mern-stack-internship-task/fronted/public/two.png)
 
 #### Bar Chart
-![Alt text](threee.png)
+![Alt text](mern-stack-internship-task/fronted/public/three.png)
 
 
 ### Full Website Demo
 You can access the full website demo by running both the backend and frontend servers as described above. The application includes a responsive design, allowing users to view transaction data, analyze statistics, and visualize data using charts.
-![Alt text](one.png)
-![Alt text](two.png)
-![Alt text](threee.png)
+![Alt text](mern-stack-internship-task/fronted/public/one.png)
+![Alt text](mern-stack-internship-task/fronted/public/two.png)
+![Alt text](mern-stack-internship-task/fronted/public/three.png)
 
 
 Credits
