@@ -91,9 +91,10 @@ URL: /pie-chart
 Description:
 Displays a pie chart showing the number of items per category for the selected month.
 Fetches data from the Pie Chart API based on the selected month.
-Installation & Setup Instructions
-Backend Setup
-Clone the repository.
+
+### Installation & Setup Instructions
+#### Backend Setup
+Clone the repository.\
 Install dependencies by running:
 
 ```bash
@@ -110,8 +111,8 @@ Run the backend server:
 npm start
 ```
 Access the backend APIs on http://localhost:5000.
-Frontend Setup
-Navigate to the frontend folder.
+#### Frontend Setup
+Navigate to the frontend folder.\
 Install dependencies by running:
 ```bash
 npm install
