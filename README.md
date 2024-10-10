@@ -18,9 +18,9 @@ Combined API: Fetches data from the Transactions, Statistics, Bar Chart, and Pie
 
 APIs Implemented
 #### 1. Initialize Database
-#### URL: /api/transactions/seed
-#### Method: GET
-#### Description: Fetches the JSON data from the third-party API and seeds the MongoDB database with transactions.
+URL: /api/transactions/seed
+Method: GET
+Description: Fetches the JSON data from the third-party API and seeds the MongoDB database with transactions.
 
 3. Transactions Listing API
 URL: /api/transactions
