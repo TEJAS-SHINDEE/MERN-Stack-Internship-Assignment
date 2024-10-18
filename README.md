@@ -1,5 +1,6 @@
-# MERN-Stack-Internship-Assignment
-## Product Transactions Dashboard
+
+# Product Transactions Dashboard
+## MERN-Stack-Internship-Assignment
 Overview
 This project implements a full-stack MERN (MongoDB, Express, React, Node.js) application to display and analyze product transactions. 
 The backend fetches data from a third-party API, stores it in a MongoDB database, and provides several APIs for retrieving, searching, and analyzing the data. 
